@@ -2,7 +2,7 @@
 #
 # Try `install_udp_hysteria.sh --help` for usage.
 #
-# (c) 2023 DHOOM
+# (c) 2023 JALAL
 #
 
 set -e
@@ -13,7 +13,7 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="dhoomvpnpro.cfd"
+DOMAIN="jajalzain.site"
 
 # PROTOCOL
 PROTOCOL="udp"
